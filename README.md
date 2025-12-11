@@ -1,11 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">, I'm Aditya Meena</h1>
 
-<br>
-<p align="right"> </p><h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adixmeena&amp;label=Profile%20views&amp;color=0e75b6&amp;style=for-the-badge" alt="adixmeena"> 
-  <p></p>
-<br>
-<p><img align="right" src="https://github.com/Adixmeena/ALL-PROBLEM-SET-CS50/blob/main/animation_500_kxa883sd.gif" alt="Adix Meena"></p>
-<ul>
 <li>
 <p>🌱 I’m currently learning Web Development, AI/ML Automation and other programming languages</p>
 </li>
