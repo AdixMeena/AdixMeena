@@ -16,7 +16,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28px"/> About Me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="20px"/> Based in **Khargone, Madhya Pradesh, India**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="20px"/> 
 - 🏗️ Currently building full-stack apps with **React + FastAPI**
 - 🏆 **2× Hackathon Participant** — built & shipped under pressure
 - 📚 **Harvard CS50x**
