@@ -15,8 +15,6 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28px"/> About Me
-
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="20px"/> 
 - 🏗️ Currently building full-stack apps with **React + FastAPI**
 - 🏆 **2× Hackathon Participant** — built & shipped under pressure
 - 📚 **Harvard CS50x**
@@ -79,19 +77,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28px"/> GitHub Stats
-
-<div align="center">
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AdixMeena&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="160"/>
-
-</div>
-
----
 
 ### 🐍 Contribution Snake
 
