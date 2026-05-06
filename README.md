@@ -83,10 +83,6 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28px"/> GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AdixMeena&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdixMeena&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="160"/>
-
 </div>
 
 <div align="center">
