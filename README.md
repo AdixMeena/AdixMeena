@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=200&section=header&text=Aditya%20Meena&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Builder%20%7C%20Aspiring%20Founder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1A56DB&height=200&section=header&text=Aditya%20Meena&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20AI/ML%20%7C%20Aspiring%20Founder&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -17,14 +17,11 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="28px"/> About Me
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="20px"/> Based in **Khargone, Madhya Pradesh, India**
-- 🎓 **B.Tech CS @ JIT Borawan** — Graduating 2028
 - 🏗️ Currently building full-stack apps with **React + FastAPI**
-- 🤖 Love integrating **AI APIs** into real-world products
 - 🏆 **2× Hackathon Participant** — built & shipped under pressure
-- 📚 **Harvard CS50x** in progress
+- 📚 **Harvard CS50x**
 - 📢 **Building in public** — sharing my journey on LinkedIn & X daily
-- 🎬 Cinephile + PC Gamer (GTA 5 🎮)
-- 🚀 Dream: **Big Tech → Own Startup**
+- 🎬 Cinephile + PC Gamer
 
 ---
 
@@ -83,34 +80,6 @@
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28px"/> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/AdixMeena">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdixMeena&repo=phoenix-ai&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/AdixMeena/roronoazoro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdixMeena&repo=roronoazoro&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-
-</div>
-
-<br/>
-
-| 🏥 **Phoenix AI** | 📚 **Pluton** |
-|---|---|
-| AI Physiotherapy & Telerehab Platform | Personalized AI Learning Platform |
-| Real-time pose detection (33 landmarks) | YouTube summarizer + PDF Q&A |
-| Exercise form scoring 0–100 | Quiz generator + AI roadmaps |
-| Voice feedback in 50+ languages | Doubt-solving chat |
-| React · FastAPI · MediaPipe · Supabase | React · FastAPI · Groq · Supabase |
-| Vercel + Railway deployed | Vercel + Railway deployed |
-
----
-
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28px"/> GitHub Stats
 
 <div align="center">
@@ -139,34 +108,6 @@
 </picture>
 
 </div>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" width="28px"/> Certifications
-
-- 🎓 **CS50x — Introduction to Computer Science** · Harvard University via edX *(in progress)*
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="28px"/> Currently
-
-```text
-📖 Learning     Advanced HTML · CSS · JavaScript (going deep)
-🔨 Building     CS50x Final Project
-🎯 Goal         First Internship + Next.js mastery
-📢 Sharing      Daily learnings on LinkedIn & X
-```
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" width="28px"/> Fun Facts
-
-- 🎬 Total cinephile — if I'm not coding, I'm watching films
-- 🎮 GTA 5 is basically my stress test environment
-- 💡 I learn best by building real things, not watching tutorials
-- 🌱 2nd year student with 2 deployed apps & 2 hackathons done
-
----
 
 <div align="center">
 
