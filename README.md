@@ -6,10 +6,10 @@
 
 <div align="center">
 
-```
+``` 
  ╔══════════════════════════════════════════════════════╗
- ║  ⚔  The World's Greatest Swordsman needs no title.  ║
- ║     His code speaks louder than any proclamation.   ║
+ ║  ⚔  There comes a point where the soul stops asking ║
+ ║    for peace and starts demanding power.             ║
  ╚══════════════════════════════════════════════════════╝
 ```
 
@@ -112,8 +112,8 @@ Every green square is a cut. Every gap is a lesson.
 
 ```
  ╔══════════════════════════════════════════════════════╗
- ║  You are not weak because you lost.                  ║
- ║  You are weak because you stopped.          — ⚔️    ║
+ ║ Hell is not fire. Hell is waking up with             ║
+ ║  potential and dying with excuses.           — ⚔️    ║
  ╚══════════════════════════════════════════════════════╝
 ```
 
