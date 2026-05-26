@@ -75,25 +75,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-111111?style=flat-square&logo=railway&logoColor=white)
 
----
 
-### GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AdixMeena&show_icons=true&bg_color=0d0d0d&title_color=ffffff&icon_color=888888&text_color=aaaaaa&border_color=222222&hide_border=false&count_private=true&rank_icon=github" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdixMeena&layout=compact&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&border_color=222222&hide_border=false" height="165"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AdixMeena&theme=dark&background=0d0d0d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555&border=222222&stroke=222222" width="55%"/>
-
-</div>
-
----
 
 ### Contribution Activity
 
